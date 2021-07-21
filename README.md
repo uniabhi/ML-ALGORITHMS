@@ -1,2 +1,1 @@
-# ML-ALGORITHMS
-All machine algorithms technique and codes 
+# SVM-Kernels
